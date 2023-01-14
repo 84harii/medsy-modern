@@ -30,6 +30,7 @@
     "typeface-open-sans": "^0.0.75"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.30.0",
     "@types/react": "^16.9.49",
     "babel-plugin-inline-react-svg": "^1.1.1",
     "imagemin-mozjpeg": "^9.0.0",
