@@ -163,7 +163,7 @@ export default function Checkout() {
 
       <div className="flex flex-col p-30px">
         <Button className="big w-full" onClick={submitOrder} loading={loading}>
-          Order Now
+          Order now
         </Button>
       </div>
     </div>
